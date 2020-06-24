@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<string>xxxxxx</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<string>xxxxxx</string>
 	<key>CLIENT_ID</key>
-	<string>1071090892189-70689dioq282sis2usj2jfd625h2fiu4.apps.googleusercontent.com</string>
+	<string>xxxxxx</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1071090892189-70689dioq282sis2usj2jfd625h2fiu4</string>
+	<string>xxxxxx</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBqyY_wG2SriA33-oacZ5HiM99Fovtszp4</string>
+	<string>xxxxxxx</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1071090892189</string>
+	<string>xxxxxx</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>Frank.Chat-App-for-iOS-10</string>
+	<string>xxxxxxx</string>
 	<key>PROJECT_ID</key>
-	<string>mychatapp-d4509</string>
+	<string>xxxxxxx</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mychatapp-d4509.appspot.com</string>
+	<string>xxxxxxx</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1071090892189:ios:217bd9a515079bed</string>
+	<string>xxxxx</string>
 	<key>DATABASE_URL</key>
-	<string>https://mychatapp-d4509.firebaseio.com</string>
+	<string>xxxxx</string>
 </dict>
 </plist>
