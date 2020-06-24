@@ -8,7 +8,7 @@ BIT (Beijing Institute of Technology) chat application available on iOS
 ![Icon](./images/iconA.jpeg)
 
 ### App Homepage, chatpage
-![AppHomepg](./images/iconB.jpeg)
+![App](./images/iconB.jpeg)
 
 
 ## Author:
